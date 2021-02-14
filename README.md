@@ -2,10 +2,11 @@
 Chuck React is an application made in react that gives chuck norris phrases.[Link](https://vibrant-heisenberg-4fabe1.netlify.app/) 
 
 <div align="center">
-  <img alt="chickreact" src=".github/images/bg.PNG" width="300px">
+  <img alt="chickreact" src=".github/images/bg.PNG" width="600px">
 </div>
-## Available Scripts
 
+
+## Available Scripts
 In the project directory, you can run:
 
 ### `npm start`
